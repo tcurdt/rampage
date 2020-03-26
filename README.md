@@ -1,4 +1,4 @@
-In 1994 the The Eletronic Knights released their first [Trackmo called "Rampage" on AMIGA](http://www.youtube.com/watch?v=lgSQdxtwjS8).
+In 1994 the The Eletronic Knights released their first [Trackmo called "Rampage" on AMIGA](https://www.youtube.com/watch?v=8UbVkbuxd1s).
 I contributed the following parts and hereby release the source code under the ASL.
 
 
